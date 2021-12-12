@@ -1,0 +1,27 @@
+On / OFF: 
+Protocol=RC6 Address=0x0 Command=0xC Raw-Data=0xC 20 bits
+
+Protocol=RC6 Address=0x0 Command=0xC Raw-Data=0x1000C 20 bits
+
+
+Vol up:
+Protocol=RC6 Address=0x0 Command=0x10 Raw-Data=0x10 20 bits
+
+Protocol=RC6 Address=0x0 Command=0x10 Raw-Data=0x10010 20 bits
+
+
+Vol down:
+Protocol=RC6 Address=0x0 Command=0x11 Raw-Data=0x11 20 bits
+
+Protocol=RC6 Address=0x0 Command=0x11 Raw-Data=0x10011 20 bits
+
+Input signal:
+Protocol=RC6 Address=0x0 Command=0xF3 Raw-Data=0x38 20 bits
+
+Protocol=RC6 Address=0x0 Command=0x38 Raw-Data=0x10038 20 bits
+
+
+Brightness Screen:
+Protocol=RC6 Address=0x0 Command=0xF3 Raw-Data=0xF3 20 bits
+
+Protocol=RC6 Address=0x0 Command=0xF3 Raw-Data=0x100F3 20 bits
