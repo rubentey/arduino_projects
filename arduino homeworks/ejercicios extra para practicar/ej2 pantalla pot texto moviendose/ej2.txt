@@ -1,0 +1,5 @@
+Se requiere de pantalla y potenciómetro.
+
+Texto centrado, en línea arriba "RECORRIDO", y en la de abajo el valor del potenciómetro (0 a 1000).
+Cuando se llegue a 1000, quiero que se borre todo, y que salga arriba "ENHORABUENA" y abajo "CONSEGUIDO".
+Después de eso que se mueva el "CONSEGUIDO" hacia la izquierda y hacia la derecha (5 posiciones) 5 veces.

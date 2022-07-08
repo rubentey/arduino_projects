@@ -1,0 +1,6 @@
+Ejercicio 1: 2p
+
+Realiza la programación y comprobación del siguiente ejercicio:
+
+· Conecta a tu arduino un LED y un potenciómetro o joystick y además de montarlo y que funcione, muestra por LCD (I2C), en la primera línea lo siguiente:
+  · Un texto que ponga "LED 1:" y seguidamente el porcentaje de iluminación en el que se encuentra (0% - 100%) dicho LED al mover el potenciómetro.

@@ -1,0 +1,3 @@
+2 potenciometros: pot1 controla servo, pot 2 controla LED.
+Sacar por pantalla el angulo del servo y luminosidad del LED.
+Y en monitor serie el valor de los potenciómetros (sabiendo de cual es cada uno (pot1 y pot 2))

@@ -1,0 +1,5 @@
+Ejercicio 1: 1.25p
+
+Realiza la programación y comprobación del siguiente ejercicio:
+
+· Conecta a tu arduino un LED y un potenciómetro o joystick y muestra por el monitor serial el porcentaje de iluminación en el que se encuentra (0% - 100%) dicho LED al mover el potenciómetro.

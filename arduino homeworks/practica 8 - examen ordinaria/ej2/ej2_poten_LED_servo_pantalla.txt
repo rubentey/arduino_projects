@@ -1,0 +1,4 @@
+Ejercicio 2: 2p
+
+· Conecta a tu arduino un potenciómetro, un LED, un servomotor, y una LCD y además de montarlo y que funcione, muestra por LCD (I2C), en la primera línea lo siguiente:
+  · "L1:" seguidamente el porcentaje de iluminación en el que se encuentra (0% - 100%) dicho LED al mover el potenciómetro, a continuación "S1:" y valor del servomotor. Ejemplo: L1: 100% S1: 180

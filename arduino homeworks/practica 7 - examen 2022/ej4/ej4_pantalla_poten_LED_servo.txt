@@ -1,0 +1,5 @@
+Ejercicio 4: 1.5p
+
+Realiza la programación y comprobación del siguiente ejercicio:
+
+·Se mostrará por LCD en la primera línea el valor de la lectura del potenciómetro y en la segunda línea el valor del porcentaje encendido del LED y seguidamente el valor en grados del servomotor.

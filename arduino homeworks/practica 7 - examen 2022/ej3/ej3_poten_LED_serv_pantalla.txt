@@ -1,0 +1,5 @@
+Ejercicio 3: 1.25p
+
+Realiza la programación y comprobación del siguiente ejercicio:
+
+· Conecta a tu arduino un potenciómetro, un LED, y una LCD. En el primer 50% de una vuelta de potenciómetro se encenderá el LED gradualmente (de 0% - 100%) y seguidamente en el siguiente 50% primero se apagará el LED y se moverá un servomotor gradualmente de 0 a 180 grados.
