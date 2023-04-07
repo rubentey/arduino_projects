@@ -6,11 +6,9 @@ U8X8_SSD1306_128X64_NONAME_SW_I2C u8x8(/* clock=*/ 2, /* data=*/ 0, /* reset=*/ 
 void setup(){
   TinyWireM.begin();
   
-  u8x8.begin();
-  u8x8.setPowerSave(0);
   //u8x8.setFont(u8x8_font_amstrad_cpc_extended_r); //looks good, small
   //u8x8.setFont(u8x8_font_5x7_r); //looks good, but really small
-  //u8x8.setFont(u8x8_font_5x8_r); //looks good
+  //u8x8.setFont(u8x8_font_5x8_r); //looks good, but small
   //u8x8.setFont(u8x8_font_8x13_1x2_r); //Lot of memory, but looks good
   //u8x8.setFont(u8x8_font_8x13B_1x2_r); //Lot of memory, but looks good
   //u8x8.setFont(u8x8_font_7x14_1x2_r); //Lot of memory, but looks good
